@@ -1,14 +1,5 @@
-# ZMK lily58 / lulu diy with Nice!Nano V2 Template
+# ZMK Lily58 nnv2
 
-## How to use this template
-1. Log in or create a Github account.
-2. Click the big green button above that says **"Use this template"**
-then select **"Create a new repository"**.
+> Lily58 w/ nice!nano v2.0 on ZMK
 
-![use template button](https://images.boardsource.xyz/Screenshot%202023-10-20%20115310.png)
-
-After that you will have a copy of this repository in your Github account,
-to use with [this ZMK keymap GUI tool](https://nickcoutsos.github.io/keymap-editor/).
-
-For a more in depth guide please see our [guide](https://www.boardsource.xyz/docs/guides-zmkgui) on using only GUIs to configure your ZMK keyboard.
-
+Can be configured with [ZMK Keymap GUI](https://nickcoutsos.github.io/keymap-editor/). Here is the full [Guide](https://boardsource.xyz/blogs/guides/getting-started-with-a-zmk-gui).
